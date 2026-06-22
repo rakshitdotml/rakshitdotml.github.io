@@ -2,13 +2,13 @@
 baseURL = "https://rakshitrao99.github.io/"
 
 # Change the default theme to be use when building the site with Hugo
-theme = "LoveIt"
+theme = "DoIt"
 
 # website title
 title = "Data Divulgence"
 
 # language code ["en", "zh-CN", "fr", "pl", ...]
-languageCode = "en"
+locale = "en"
 # language name ["English", "简体中文", "Français", "Polski", ...]
 languageName = "English"
 

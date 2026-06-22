@@ -1,0 +1,18 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Data Divulgence</title>
+        <link>http://localhost:1313/</link>
+        <description>Data Divulgence</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 13 Dec 2022 01:06:16 &#43;0530</lastBuildDate>
+            <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>Introduction to Feature Attributes in Machine Learning-I</title>
+    <link>http://localhost:1313/posts/my-first-post/</link>
+    <pubDate>Tue, 13 Dec 2022 01:06:16 &#43;0530</pubDate><author>
+        <name>Author</name>
+    </author><guid>http://localhost:1313/posts/my-first-post/</guid>
+    <description><![CDATA[<h2 id="introduction" class="headerLink">
+    <a href="#introduction" class="header-mark"></a>Introduction</h2><p>In machine learning and statistics, feature selection, also known as variable selection, attribute selection or variable subset selection, is the process of selecting a subset of relevant features (variables, predictors) for use in model construction.</p>
+<p>Feature Selection is a technique in which we want to decrease the number of features keeping the performance of our model same (or increasing it). It is a common perception in ML community that garbage in garbage out, so if we input noise in out model then our model is gonna return dubious outputs. So we want to create a minimal feature set from our existing feature set.</p>]]></description>
+</item></channel>
+</rss>
