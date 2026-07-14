@@ -1,5 +1,5 @@
 # baseURL = "http://example.org/"
-baseURL = "https://rakshitrao99.github.io/"
+baseURL = "https://rakshitdotml.github.io/"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "DoIt"
@@ -18,7 +18,7 @@ languageName = "English"
 [author]
   name = "Rakshit"
   email = "rohit.rakshit1998@gmail.com"
-  link = ""
+  link = "https://github.com/rakshitdotml"
 
 # Menu config
 [menu]
